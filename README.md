@@ -1,5 +1,7 @@
 # aplikasi-lapangan 
 Aplikasi Untuk Memudahkan Pekerjaan dan dalam rangka Praktik Kerja Lapangan
+FULL MODAL BOOTSTRAP.
+LAPORAN Menggunakan plugin FPDF
 
 Berikut Screenshootnya
 
